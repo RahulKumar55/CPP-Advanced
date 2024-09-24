@@ -1,0 +1,1 @@
+This repo contains more workshops and projects I completed in C++ as a student. This covers advanced OOP concepts required for software development, thus the workshops and the project are a bit more complex here. This repo  includes an assembly line managemnet application. Since the major focus was concepts, everything runs in the console and not in a proper UI.
